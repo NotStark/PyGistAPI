@@ -23,4 +23,4 @@ pip install PyGistApi
 4. Submit a pull request with a clear description of your changes.
 
 ## License
-- This project is licensed under the MIT License.
+- This project is licensed under the [MIT](https://github.com/NotStark/PyGistApi/blob/main/LICENSE) License.

@@ -35,7 +35,7 @@ class AsyncGistClient(Requester):
         self, per_page: int = 30, page: int = 1, since: str = ""
     ) -> Dict:
         """
-        List Gists from the authenticated user or a specific user.
+        List Gists from the authenticated user.
 
         Args:
             per_page (int, optional): Number of Gists per page.

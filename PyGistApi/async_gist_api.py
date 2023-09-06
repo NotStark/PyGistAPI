@@ -14,7 +14,7 @@ class AsyncGistClient(Requester):
         retries: int = 2,
     ) -> None:
         """
-        Initialize a GistClient instance.
+        Initialize a AsyncGistClient instance.
 
         Args:
             auth_token (str, optional): GitHub API token for authentication.

@@ -4,7 +4,7 @@ from typing import Optional
 from .sync_gist_api import GistClient
 from .async_gist_api import AsyncGistClient
 
-assert sys.version_info[0] == 3, "Python version must be greater than or equal to 3"
+assert sys.version_info[0] == 3, "Python version must be 3"
 
 
 auth_token: str = os.environ.get("AUTH_TOKEN")

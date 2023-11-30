@@ -21,7 +21,7 @@ You can install ``PyGistApi`` via pip:
 
 Documentation
 -------------
-- For more detailed information and examples, check out the full `documentation <https://github.com/NotStark/PyGistApi/wiki>`_.
+- For more detailed information and examples, check out the full `documentation <https://github.com/AsyncVortex/PyGistApi/wiki>`_.
 
 Contributing
 ------------
